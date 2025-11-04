@@ -66,7 +66,9 @@ The race trace plot shows the clear difference between the two strategies, with 
 ```bash
 pip install -r requirements.txt
 jupyter notebook monaco_2025_strategy_sim.ipynb
-Requirements:
+```
+
+## Requirements:
 fastf1
 pandas
 numpy
