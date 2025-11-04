@@ -39,6 +39,7 @@ Actual-like
   - P(top 10): 0 %
   - P(better than grid): 79 %
   - Avg Race Time (s): 6154 s
+
 Collins early 2-stop
   - Avg Finish Pos: 20.0
   - P(top 10): 0 %
