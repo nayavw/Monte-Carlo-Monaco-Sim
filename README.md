@@ -57,3 +57,18 @@ The two-early-stop approach consistently finished last in every simulation, main
 The finishing-position histogram shows that both strategies are clustered at the back, but “Actual-like” occasionally finishes one position higher.
 The race-time distribution is clearly bimodal, with “Collins” running approximately 115 seconds slower on average.
 The race trace plot shows the clear difference between the two strategies, with Collins' being obviously slower.
+
+
+
+
+
+## Run it yourself
+```bash
+pip install -r requirements.txt
+jupyter notebook monaco_2025_strategy_sim.ipynb
+Requirements:
+fastf1
+pandas
+numpy
+matplotlib
+scipy
