@@ -69,8 +69,8 @@ jupyter notebook monaco_2025_strategy_sim.ipynb
 ```
 
 ## Requirements:
-fastf1
-pandas
-numpy
-matplotlib
-scipy
+- fastf1
+- pandas
+- numpy
+- matplotlib
+- scipy
